@@ -1,0 +1,18 @@
+[package]
+name = "iterator-assertions"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roni Hämäläinen"]
+description = "Assert something about an iterator in place."
+license-file = "LICENSE"
+repository = ""
+keywords = ["assert", "iterator", "in-place"]
+categories = ["development-tools"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+push-in-place = "*"
