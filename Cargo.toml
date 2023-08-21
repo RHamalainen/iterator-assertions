@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Roni Hämäläinen"]
 description = "Assert something about an iterator in place."
 license-file = "LICENSE"
-repository = ""
+repository = "https://github.com/RHamalainen/iterator-assertions"
 keywords = ["assert", "iterator", "in-place"]
 categories = ["development-tools"]
 
